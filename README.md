@@ -1,3 +1,7 @@
+
+This site determines for a randomly generated background color whether white or black text would be more readable. 
+The calculation formula was derived from: https://24ways.org/2010/calculating-color-contrast/ 
+
 ![Hexbot](https://user-images.githubusercontent.com/212941/59163439-23c05900-8ab6-11e9-8764-977334c7bba8.png)
 
 # 👋 Meet Hexbot
